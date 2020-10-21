@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
             6 -> diceImage.setImageResource(R.drawable.dice_6)
         }
             }
-    //teste
+    
 
 
     class Dice(private val numSides: Int) {
